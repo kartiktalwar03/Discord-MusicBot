@@ -5,7 +5,6 @@
   "logo": "https://cdn.discordapp.com/avatars/750613142488481843/e6326038dbe2243ca551ba5b6ecd8bf2.png?size=1024",
   "keywords": [
     "node",
-    "discord",
     "youtube",
     "lavalink",
     "dashboard"
@@ -18,7 +17,7 @@
   ],
   "env": {
     "Prefix": {
-      "description": "The Discord Bot Prefix",
+      "description": "The Bot Prefix",
       "required": "true"
     },
     "Token": {
